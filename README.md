@@ -1,5 +1,1 @@
 - 👋 Hi, I’m @RealCottonCandyPimp
-- 👀 I’m interested in shooting, hunting and games
-- 🌱 I’m currently learning C++, Javascript and HTML
-- 💞️ I’m looking to collaborate on nothing atm
-- 📫 How to reach me Twitter @TheDiac
