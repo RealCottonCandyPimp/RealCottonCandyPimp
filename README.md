@@ -1,1 +1,3 @@
 - 👋 Hi, I’m @RealCottonCandyPimp
+- I am currently learning codding thanks to boot.dev
+- Hopefully I will be able to make discord bots and vrchat avatar assets and world assets after I get better at coding
